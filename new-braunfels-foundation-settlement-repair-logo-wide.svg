@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="250" viewBox="0 0 1600 250" role="img" aria-label="New Braunfels Foundation Settlement Repair">
+  <rect width="1600" height="250" fill="#ffffff"/>
+  <g transform="translate(28,22)">
+    <path d="M8 88 L92 18 L176 88 L160 98 L92 42 L24 98 Z" fill="#063760"/>
+    <rect x="144" y="38" width="24" height="50" rx="2" fill="#063760"/>
+    <rect x="44" y="88" width="15" height="32" fill="#063760"/>
+    <rect x="125" y="88" width="15" height="32" fill="#063760"/>
+    <rect x="78" y="68" width="13" height="13" fill="#063760"/>
+    <rect x="95" y="68" width="13" height="13" fill="#063760"/>
+    <rect x="78" y="85" width="13" height="13" fill="#063760"/>
+    <rect x="95" y="85" width="13" height="13" fill="#063760"/>
+    <rect x="14" y="122" width="156" height="18" rx="1" fill="#9da4a9"/>
+    <path d="M92 119 l-6 9 6 6-4 9 6 8-3 12" fill="none" stroke="#0a426f" stroke-width="6"/>
+    <path d="M0 144 Q38 140 68 144 T134 144 T184 144 L184 196 Q184 204 176 204 L8 204 Q0 204 0 196 Z" fill="#3f3936"/>
+    <g>
+      <rect x="31" y="138" width="8" height="50" fill="#e9edf0"/><rect x="29" y="151" width="12" height="8" fill="#adb6bc"/><path d="M31 188 L35 197 L39 188 Z" fill="#e9edf0"/>
+      <rect x="88" y="138" width="8" height="50" fill="#e9edf0"/><rect x="86" y="151" width="12" height="8" fill="#adb6bc"/><path d="M88 188 L92 197 L96 188 Z" fill="#e9edf0"/>
+      <rect x="145" y="138" width="8" height="50" fill="#e9edf0"/><rect x="143" y="151" width="12" height="8" fill="#adb6bc"/><path d="M145 188 L149 197 L153 188 Z" fill="#e9edf0"/>
+    </g>
+  </g>
+  <g transform="translate(235,38)">
+    <text x="0" y="72" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="72" letter-spacing="1" fill="#063760">NEW BRAUNFELS</text>
+    <line x1="2" y1="94" x2="445" y2="94" stroke="#858b8f" stroke-width="4"/>
+    <path d="M472 82 l9 6 7 -1 3 8 8 2 -4 7 2 9 -8 4 -6 10 -8 -7 -9 -2 2 -9 -6 -6 7 -6 z" fill="#858b8f"/>
+    <line x1="510" y1="94" x2="1328" y2="94" stroke="#858b8f" stroke-width="4"/>
+    <text x="0" y="142" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="31" letter-spacing="3.2" fill="#374f60">FOUNDATION SETTLEMENT REPAIR</text>
+  </g>
+</svg>
